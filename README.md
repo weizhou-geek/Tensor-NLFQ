@@ -1,2 +1,4 @@
 # Tensor-NLFQ
-Demo code of "Tensor Oriented No-Reference Light Field Image Quality Assessment", TIP 2020
+
+The image used in the demo can be found in the following link:
+https://drive.google.com/open?id=1zwpNH8TuYkxr7RcRVPaSaXiNf139LtuT
